@@ -5,9 +5,9 @@ const prevista = entrada.questionInt("Informe a produçõa prevista: ");
 
 
 function calcularEficiencia(real, prevista)  {
-    const
+    return real / prevista 
 }
 
 function classificarEficiencia(percentual) {
-
+    if ()
 }
